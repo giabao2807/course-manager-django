@@ -1,0 +1,1 @@
+from .AccountPermission import AdminPermission, LecturePermission, AdminOrLecturPermission, StudentPermission

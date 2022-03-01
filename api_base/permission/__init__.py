@@ -1,0 +1,2 @@
+from .Permission import MyBasePermission
+
